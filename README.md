@@ -9,4 +9,4 @@
 
 # Reflection after both tasks
 
-  Found overall both of the tests to be really fun and enjoyable.
+  Overall both of the tests to be really fun and enjoyable.
